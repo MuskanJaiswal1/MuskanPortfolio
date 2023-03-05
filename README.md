@@ -1,4 +1,4 @@
 # MuskanPortfolio
-##### MuskanPortfolio
-<h1>muskan portfolio</h1>
-live at: https://muskanjaiswal1.github.io/MuskanPortfolio/
+<h1>Muskan portfolio</h1>
+Preview of the project at : https://muskanjaiswal1.github.io/MuskanPortfolio/
+This is a front-end website created using HTML, CSS and ,Javascript.

@@ -163,7 +163,7 @@ header .icons a:hover{
 }
 @keyframes slide {
     100%{
-        top: -253px;
+        top: -190px;
     }
 }
 .dynamic-txts li span{
@@ -177,7 +177,7 @@ header .icons a:hover{
     width: 100%;
     background-color: #111;
     border-left: .2rem solid #1E90FF;
-    animation: typing 3s steps(10) infinite;
+    animation: typing 3s steps(19) infinite;
 }
  @keyframes typing {
     100%{
